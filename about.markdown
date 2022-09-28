@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+![coffee cup](/images/coffee.jpg)
 
 Hello , I'm moustafa! this is my blog.
 
